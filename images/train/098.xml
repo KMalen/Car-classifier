@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>098.jpg</filename>
+	<path>C:\images\098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>171</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>16</ymin>
+			<xmax>156</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

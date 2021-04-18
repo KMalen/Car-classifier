@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>399.jpg</filename>
+	<path>C:\images\399.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>675</ymin>
+			<xmax>2937</xmax>
+			<ymax>1800</ymax>
+		</bndbox>
+	</object>
+</annotation>

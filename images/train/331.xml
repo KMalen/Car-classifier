@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>331.jpg</filename>
+	<path>C:\images\331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>102</ymin>
+			<xmax>677</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>504.jpg</filename>
+	<path>C:\images\504.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2980</width>
+		<height>1942</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>special</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>236</ymin>
+			<xmax>2794</xmax>
+			<ymax>1818</ymax>
+		</bndbox>
+	</object>
+</annotation>

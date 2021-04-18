@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>762.jpg</filename>
+	<path>C:\images\762.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>429</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>31</ymin>
+			<xmax>419</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>
